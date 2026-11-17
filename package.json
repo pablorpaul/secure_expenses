@@ -2,8 +2,8 @@
   "name": "controle-despesas-api",
   "version": "1.0.0",
   "private": true,
-  "main": "src/server.js",
-  "scripts": { "dev": "nodemon src/server.js", "start": "node src/server.js" },
+  "main": "backend-proj/src/server.js",
+  "scripts": { "dev": "nodemon backend-proj/src/server.js", "start": "node backend-proj/src/server.js" },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
